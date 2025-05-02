@@ -1,3 +1,10 @@
+ Division
+
+int a = 4;
+int b = 9;
+int division = a/b;
+Console.WriteLine("Division of numbers is "+division);
+
  Multiplication
 
 int a = 6;
@@ -15,4 +22,4 @@ int b = 7;
 int sum = a+b;
 COnsole.WriteLine("Sum of these numnbers are "+ sum);
 Addition
- Addition
+ Addition Addition
